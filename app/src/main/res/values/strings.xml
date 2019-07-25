@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">benepicture</string>
+    <string name="bene">BENE</string>
+    <string name="picture">PICTURE</string>
+    <string name="dayonglee">DAY ON GLEE</string>
+    <string name="image_error">can not loading Image</string>
+    <string name="login">로그인</string>
+    <string name="signup_message">아직 회원이 아니신가요?</string>
+    <string name="ID">ID</string>
+    <string name="PW">PASSWORD</string>
+
+</resources>
