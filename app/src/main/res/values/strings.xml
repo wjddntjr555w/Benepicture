@@ -5,8 +5,10 @@
     <string name="dayonglee">DAY ON GLEE</string>
     <string name="image_error">can not loading Image</string>
     <string name="login">로그인</string>
-    <string name="signup_message">아직 회원이 아니신가요?</string>
+    <string name="signup_message"><u>아직 회원이 아니신가요?</u></string>
     <string name="ID">ID</string>
-    <string name="PW">PASSWORD</string>
-
+    <string name="PW">Password</string>
+    <string name="confirmPW">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
 </resources>
